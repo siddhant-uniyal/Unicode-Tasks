@@ -8,3 +8,6 @@
 	path = backend_task_4
 	url = https://github.com/siddhant-uniyal/backend_task_4.git
 
+[submodule "backend_task1"]
+	path = backend_task1
+	url = https://github.com/siddhant-uniyal/backend_task1.git
