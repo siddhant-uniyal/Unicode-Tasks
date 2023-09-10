@@ -1,0 +1,12 @@
+[submodule "backend_task_1"]
+	path = backend_task_1
+	url = https://github.com/siddhant-uniyal/backend_task_1.git
+[submodule "backend_task_2"]
+	path = backend_task_2
+	url = https://github.com/siddhant-uniyal/backend_task_2.git
+[submodule "backend_task_3"]
+	path = backend_task_3
+	url = https://github.com/siddhant-uniyal/backend_task_3.git
+[submodule "backend_task_4"]
+	path = backend_task_4
+	url = https://github.com/siddhant-uniyal/backend_task_4.git
